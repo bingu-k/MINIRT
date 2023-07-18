@@ -118,7 +118,6 @@ make
   make
   ./test
   ```
-- Result
   <img width="495" alt="Screenshot 2023-07-18 at 2 11 23 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/c1f5211a-47b4-4937-85e9-d7187536a613">
 
 ### ex02
@@ -129,7 +128,6 @@ make
   make
   ./test
   ```
-- Result
   <img width="495" alt="Screenshot 2023-07-18 at 2 11 23 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/c1f5211a-47b4-4937-85e9-d7187536a613">
   <img width="444" alt="Screenshot 2023-07-18 at 2 22 52 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/3d8325e5-8179-4fae-8cb1-e28b99cd6b14">
 
@@ -141,7 +139,6 @@ make
   make
   ./gradation
   ```
-- Result
   <img width="368" alt="Screenshot 2023-07-18 at 2 15 49 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/dbdcd911-6b6c-4fe1-8a02-550aabe65a8f">
 
 ### ex04
@@ -152,7 +149,6 @@ make
   make
   ./sky
   ```
-- Result
   <img width="912" alt="Screenshot 2023-07-18 at 2 16 52 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/e2238c5f-04cc-4ee2-8945-613879e32042">
 
 ### ex05
@@ -163,7 +159,6 @@ make
   make
   ./sphere
   ```
-- Result
   <img width="912" alt="Screenshot 2023-07-18 at 2 17 31 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/abefb211-fe08-4518-a74b-8a51fa01ecbe">
 
 ### ex06
@@ -174,7 +169,6 @@ make
   make
   ./sphere_gradation
   ```
-- Result
   <img width="912" alt="Screenshot 2023-07-18 at 2 18 19 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/b4f7c00b-f4fe-41fa-8473-cf13ea02a63d">
 
 ### ex07
@@ -185,7 +179,6 @@ make
   make
   ./sphere_gradation
   ```
-- Result
   <img width="912" alt="Screenshot 2023-07-18 at 2 19 43 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/f8c44350-5b18-420d-833a-d3c0e0c22c1a">
 
 ### ex08
@@ -196,7 +189,6 @@ make
   make
   ./ambient_lighting
   ```
-- Result
   <img width="912" alt="Screenshot 2023-07-18 at 2 21 00 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/72f73dc4-adee-41ab-b0f5-f9d7bc797a1b">
 
 ### ex09
@@ -207,5 +199,7 @@ make
   make
   ./phong_model
   ```
-- Result
   <img width="912" alt="Screenshot 2023-07-18 at 2 21 32 PM" src="https://github.com/bingu-k/MINIRT/assets/74482282/93eaf182-b99c-41de-8283-9e3f01d3c24f">
+---
+### 참조
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
